@@ -1,3 +1,7 @@
 django
 channels
 channels_redis
+celery
+django-celery-results
+django-celery-beat
+django_redis
